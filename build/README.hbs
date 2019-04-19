@@ -1,0 +1,48 @@
+# itunes-feed
+[![npm](https://img.shields.io/npm/v/itunes-feed.svg?style=for-the-badge)](https://www.npmjs.com/package/itunes-feed)
+[![npm](https://img.shields.io/npm/dt/itunes-feed.svg?style=for-the-badge)](https://www.npmjs.com/package/itunes-feed)
+[![David](https://img.shields.io/david/KyleRoss/node-itunes-feed.svg?style=for-the-badge)](https://david-dm.org/KyleRoss/node-itunes-feed)
+[![Travis](https://img.shields.io/travis/KyleRoss/node-itunes-feed/master.svg?style=for-the-badge)](https://travis-ci.org/KyleRoss/node-itunes-feed)
+[![Coveralls](https://img.shields.io/coveralls/github/KyleRoss/node-itunes-feed.svg?style=for-the-badge)](https://coveralls.io/github/KyleRoss/node-itunes-feed)
+[![license](https://img.shields.io/github/license/KyleRoss/node-itunes-feed.svg?style=for-the-badge)](https://github.com/KyleRoss/node-itunes-feed/blob/master/LICENSE)
+[![Beerpay](https://img.shields.io/beerpay/KyleRoss/node-itunes-feed.svg?style=for-the-badge)](https://beerpay.io/KyleRoss/node-itunes-feed)
+
+Generates and retrieves JSON feeds from iTunes for various different services. A programmatic version of the [RSS Feed Generator](https://rss.itunes.apple.com/en-us).
+
+# Usage
+## Install
+```
+npm install --save itunes-feed
+```
+
+## Example
+```js
+const itunesFeed = require('itunes-feed');
+
+// ...
+
+try {
+    let feed = await itunesFeed.appleMusic();
+    console.log(`Retrieved ${feed.length} items for Apple Music`);
+    
+    // ...
+} catch(error) {
+    console.error(error);
+}
+```
+
+# API Documentation
+{{#orphans ~}}
+{{>docs~}}
+{{/orphans~}}
+
+
+## Tests
+To run tests locally, clone this repo and run:
+
+```
+npm test
+```
+
+## License
+MIT License

@@ -1,0 +1,9 @@
+test/
+build/
+.npmrc
+.eslintrc.yml
+.releaserc
+.travis.yml
+commitlint.config.js
+CONTRIBUTING.md
+CHANGELOG.md

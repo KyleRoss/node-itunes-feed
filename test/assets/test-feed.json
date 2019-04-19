@@ -1,0 +1,287 @@
+{
+	"feed": {
+		"title": "Top Courses",
+		"id": "https://rss.itunes.apple.com/api/v1/us/itunes-u/top-itunes-u-courses/all/10/explicit.json",
+		"author": {
+			"name": "iTunes Store",
+			"uri": "http://wwww.apple.com/us/itunes/"
+		},
+		"links": [{
+				"self": "https://rss.itunes.apple.com/api/v1/us/itunes-u/top-itunes-u-courses/all/10/explicit.json"
+			},
+			{
+				"alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=40000000&popId=65"
+			}
+		],
+		"copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
+		"country": "us",
+		"icon": "http://itunes.apple.com/favicon.ico",
+		"updated": "2019-04-03T02:59:08.000-07:00",
+		"results": [{
+				"artistName": "Apple Education",
+				"id": "1153807202",
+				"releaseDate": "2016-09-12",
+				"name": "Swift Playgrounds: Learn to Code 1&2",
+				"kind": "course",
+				"artistId": "961802847",
+				"artistUrl": "https://itunes.apple.com/us/artist/apple-education/961802847?mt=10",
+				"artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/course/CobaltPublic62/v4/e2/30/c3/e230c3ae-c6c2-9548-6a5c-c4f97947fe64/source/200x200.png",
+				"genres": [{
+						"genreId": "40000012",
+						"name": "Computer Science",
+						"url": "https://itunes.apple.com/us/genre/id40000012"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					},
+					{
+						"genreId": "40000009",
+						"name": "Engineering",
+						"url": "https://itunes.apple.com/us/genre/id40000009"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/swift-playgrounds-learn-to-code-1-2/id1153807202"
+			},
+			{
+				"artistName": "Yale University",
+				"id": "897495476",
+				"releaseDate": "2014-07-09",
+				"name": "Introduction to Psychology",
+				"kind": "course",
+				"artistId": "341649956",
+				"artistUrl": "https://itunes.apple.com/us/artist/yale-university/341649956?mt=10",
+				"artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/course/CobaltPublic4/v4/3c/34/e4/3c34e455-de33-cb09-c9fa-f1cd0899adce/source/200x200.png",
+				"genres": [{
+						"genreId": "40000094",
+						"name": "Social Science",
+						"url": "https://itunes.apple.com/us/genre/id40000094"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/introduction-to-psychology/id897495476"
+			},
+			{
+				"artistName": "Arkansas",
+				"id": "555982688",
+				"releaseDate": "2012-08-24",
+				"name": "Spanish I",
+				"kind": "course",
+				"artistId": "405261315",
+				"artistUrl": "https://itunes.apple.com/us/artist/arkansas/405261315?mt=10",
+				"artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/course/CobaltPublic/v4/d8/af/ae/d8afae0b-90ee-9c96-bbbc-965aa9dbe855/source/200x200.png",
+				"genres": [{
+						"genreId": "40000068",
+						"name": "Spanish",
+						"url": "https://itunes.apple.com/us/genre/id40000068"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					},
+					{
+						"genreId": "40000056",
+						"name": "Languages",
+						"url": "https://itunes.apple.com/us/genre/id40000056"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/spanish-i/id555982688"
+			},
+			{
+				"artistName": "Stanford",
+				"id": "951932247",
+				"releaseDate": "2014-12-15",
+				"name": "How to Start a Startup",
+				"kind": "course",
+				"artistId": "384228265",
+				"artistUrl": "https://itunes.apple.com/us/artist/stanford/384228265?mt=10",
+				"artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/course/CobaltPublic5/v4/11/a1/61/11a16110-352b-341f-bef7-54a02f449a74/source/200x200.png",
+				"genres": [{
+						"genreId": "40000121",
+						"name": "Entrepreneurship",
+						"url": "https://itunes.apple.com/us/genre/id40000121"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					},
+					{
+						"genreId": "40000001",
+						"name": "Business & Economics",
+						"url": "https://itunes.apple.com/us/genre/id40000001"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/how-to-start-a-startup/id951932247"
+			},
+			{
+				"artistName": "Stanford",
+				"id": "1309275316",
+				"releaseDate": "2017-11-07",
+				"name": "Developing iOS 11 Apps with Swift",
+				"kind": "course",
+				"artistId": "384228265",
+				"artistUrl": "https://itunes.apple.com/us/artist/stanford/384228265?mt=10",
+				"artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/course/CobaltPublic128/v4/81/d0/9c/81d09ca1-ec7b-19b2-a215-4ae39df215c5/source/200x200.png",
+				"genres": [{
+						"genreId": "40000012",
+						"name": "Computer Science",
+						"url": "https://itunes.apple.com/us/genre/id40000012"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					},
+					{
+						"genreId": "40000009",
+						"name": "Engineering",
+						"url": "https://itunes.apple.com/us/genre/id40000009"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316"
+			},
+			{
+				"artistName": "Missouri State University",
+				"id": "549538984",
+				"releaseDate": "2012-07-31",
+				"name": "Personal Finance",
+				"kind": "course",
+				"artistId": "340947085",
+				"artistUrl": "https://itunes.apple.com/us/artist/missouri-state-university/340947085?mt=10",
+				"artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/course/CobaltPublic4/v4/1b/60/6b/1b606b29-50c0-7260-18b4-430f58ae1083/source/200x200.png",
+				"genres": [{
+						"genreId": "40000003",
+						"name": "Finance",
+						"url": "https://itunes.apple.com/us/genre/id40000003"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					},
+					{
+						"genreId": "40000001",
+						"name": "Business & Economics",
+						"url": "https://itunes.apple.com/us/genre/id40000001"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/personal-finance/id549538984"
+			},
+			{
+				"artistName": "Yale University",
+				"id": "725369275",
+				"releaseDate": "2013-10-14",
+				"name": "Human Emotion",
+				"kind": "course",
+				"artistId": "341649956",
+				"artistUrl": "https://itunes.apple.com/us/artist/yale-university/341649956?mt=10",
+				"artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/course/CobaltPublic/v4/05/e4/42/05e44206-127a-3602-e538-e641a90f389e/source/200x200.png",
+				"genres": [{
+						"genreId": "40000098",
+						"name": "Psychology",
+						"url": "https://itunes.apple.com/us/genre/id40000098"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					},
+					{
+						"genreId": "40000094",
+						"name": "Social Science",
+						"url": "https://itunes.apple.com/us/genre/id40000094"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/human-emotion/id725369275"
+			},
+			{
+				"artistName": "Cedar Valley Catholic Schools",
+				"id": "552992296",
+				"releaseDate": "2012-08-13",
+				"name": "Drawing ",
+				"kind": "course",
+				"artistId": "541090538",
+				"artistUrl": "https://itunes.apple.com/us/artist/cedar-valley-catholic-schools/541090538?mt=10",
+				"artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/course/CobaltPublic6/v4/56/ad/45/56ad451d-f32d-6d5d-84e9-0e9df6d6b6af/source/200x200.png",
+				"genres": [{
+						"genreId": "40000120",
+						"name": "Visual Art",
+						"url": "https://itunes.apple.com/us/genre/id40000120"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					},
+					{
+						"genreId": "40000016",
+						"name": "Music, Art, & Design",
+						"url": "https://itunes.apple.com/us/genre/id40000016"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/drawing/id552992296"
+			},
+			{
+				"artistName": "Harrisburg Area Community College",
+				"id": "1281661528",
+				"releaseDate": "2017-09-11",
+				"name": "A-Plus Anatomy: The Life of a Cell",
+				"kind": "course",
+				"artistId": "424622079",
+				"artistUrl": "https://itunes.apple.com/us/artist/harrisburg-area-community-college/424622079?mt=10",
+				"artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/course/CobaltPublic128/v4/3c/d6/ff/3cd6ffd7-db79-5e1b-0a97-1c3a0847e779/source/200x200.png",
+				"genres": [{
+						"genreId": "40000088",
+						"name": "Biology",
+						"url": "https://itunes.apple.com/us/genre/id40000088"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					},
+					{
+						"genreId": "40000084",
+						"name": "Science",
+						"url": "https://itunes.apple.com/us/genre/id40000084"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/a-plus-anatomy-the-life-of-a-cell/id1281661528"
+			},
+			{
+				"artistName": "Yale University",
+				"id": "757227970",
+				"releaseDate": "2013-11-18",
+				"name": "Game Theory",
+				"kind": "course",
+				"artistId": "341649956",
+				"artistUrl": "https://itunes.apple.com/us/artist/yale-university/341649956?mt=10",
+				"artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/course/CobaltPublic4/v4/1f/b4/7d/1fb47d67-67e6-6a3e-dd0f-5be1d905d41c/source/200x200.png",
+				"genres": [{
+						"genreId": "40000002",
+						"name": "Economics",
+						"url": "https://itunes.apple.com/us/genre/id40000002"
+					},
+					{
+						"genreId": "40000000",
+						"name": "iTunes U",
+						"url": "https://itunes.apple.com/us/genre/id40000000"
+					},
+					{
+						"genreId": "40000001",
+						"name": "Business & Economics",
+						"url": "https://itunes.apple.com/us/genre/id40000001"
+					}
+				],
+				"url": "https://itunes.apple.com/us/course/game-theory/id757227970"
+			}
+		]
+	}
+}
