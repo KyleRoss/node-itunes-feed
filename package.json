@@ -1,6 +1,6 @@
 {
   "name": "itunes-feed",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Generate and retrieve iTunes feeds",
   "main": "index.js",
   "directories": {
