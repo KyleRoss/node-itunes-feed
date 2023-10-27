@@ -81,6 +81,6 @@
     "semantic-release": "^15.13.3"
   },
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^1.6.0"
   }
 }
